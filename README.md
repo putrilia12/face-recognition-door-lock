@@ -89,7 +89,6 @@ For the complete project report, documentation files, and supporting materials, 
 
 ## 👩‍💻 Author
 **Putri Aurelia**  
-Physics Undergraduate | Computer Vision | IoT & Data Analysis  
 
 🔗 LinkedIn:  
 [https://www.linkedin.com/in/putri-aurelia-83087b343/](https://www.linkedin.com/in/putri-aurelia-83087b343/)
