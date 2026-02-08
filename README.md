@@ -64,6 +64,12 @@ This project demonstrates practical skills in **Python programming, image proces
 
 ---
 
+## 📚 Project Report Documentation
+For the complete project report, documentation files, and supporting materials, see:  
+📄 **[Project Report & Documentation (Google Drive)](https://drive.google.com/drive/folders/1YIdJaXm3H0nIeaL4jFSyB7th1t3a5bjC)**
+
+---
+
 ## 🚀 How to Use
 1. Install required Python libraries  
 2. Capture facial datasets using the webcam  
