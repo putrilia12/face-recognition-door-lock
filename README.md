@@ -91,7 +91,7 @@ For the complete project report, documentation files, and supporting materials, 
 **Putri Aurelia**  
 
 🔗 LinkedIn:  
-[https://www.linkedin.com/in/putri-aurelia-83087b343/](https://www.linkedin.com/in/putri-aurelia-83087b343/)
+[Putri Aurelia](https://www.linkedin.com/in/putri-aurelia-728abb342/)
 
 ---
 
