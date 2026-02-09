@@ -38,19 +38,23 @@ This project demonstrates practical skills in **Python programming, image proces
 ---
 
 ## ⚙️ System Workflow
-1. The webcam captures facial images in real time  
-2. OpenCV detects and recognizes the face  
-3. The system checks whether the face is registered  
-4. If the face is recognized, the servo motor unlocks the door  
-5. If the face is not recognized, access is denied  
+1. Prepare the required tools and materials, including installing the necessary software (Python, OpenCV, etc.).
+2. Capture face images of registered users using the webcam.
+3. Store the captured face images into a dataset for training.
+4. Develop the face recognition program step-by-step in Python using OpenCV.
+5. Train the face recognition model using the prepared face dataset.
+6. Build the automatic door-lock hardware circuit according to the designed prototype (Arduino UNO + SG90 servo + door lock).
+7. Integrate the face recognition program with the hardware system so the recognition result can trigger the door lock mechanism.
+8. Test the system: if the face is recognized with sufficient confidence/accuracy, Arduino drives the servo to unlock; otherwise the door remains locked. 
 
 ---
 
 ## 🧠 Face Recognition Approach
-- Face detection using **Haar Cascade Classifier**  
-- Dataset-based facial training  
-- Real-time face recognition testing  
-- Integration with Arduino for hardware control  
+- **Face Detection:** Uses **Haar Cascade Classifier** to detect and locate a face region (ROI) in each video frame.
+- **Dataset-Based Training:** Builds a labeled dataset from registered users’ face images, then trains the recognition model.
+- **Face Recognition:** Uses **LBPH (Local Binary Pattern Histogram)** to extract local facial texture patterns and compare them with trained data for identity recognition.
+- **Real-Time Testing:** Runs recognition in real time and evaluates the recognition result (accuracy/confidence) before granting access.
+- **Arduino Integration:** Sends the recognition decision to **Arduino UNO** to control the **SG90 servo** for door unlocking/locking. 
 
 ---
 
@@ -92,8 +96,3 @@ For the complete project report, documentation files, and supporting materials, 
 
 🔗 LinkedIn:  
 [Putri Aurelia](https://www.linkedin.com/in/putri-aurelia-728abb342/)
-
----
-
-## 📄 Notes
-This project is developed for **educational, experimental, and portfolio purposes** and demonstrates the integration of artificial intelligence with embedded systems.
