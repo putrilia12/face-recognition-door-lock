@@ -8,6 +8,7 @@ This project presents a **face recognition–based automatic door lock system** 
 The system combines **computer vision using OpenCV** and **hardware control using Arduino UNO** to create a real-time smart security solution.
 
 This project demonstrates practical skills in **Python programming, image processing, IoT integration, and system implementation**, making it suitable for professional portfolios and technical evaluations.
+![System Integration](docs/design/system-integration-face-recognition-door-lock.png)
 
 ---
 
