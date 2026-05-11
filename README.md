@@ -62,7 +62,6 @@ This project demonstrates practical skills in **Python programming, image proces
 
 ### 🔹 System Design
 ![System Integration](docs/design/system-integration-face-recognition-door-lock.png)
-
 ![Prototype Layout](docs/design/prototype-layout-door-lock-front-back.png)
 
 ### 🔹 Prototype
